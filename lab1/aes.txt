@@ -1,0 +1,8 @@
+AES
+inverso num no nulo, identidad de bezout
+mcd(k,p) = 1 => existen a,b -> k*a + p*b = 1
+mod p k*a=1
+
+f cuerpo finito
+1) existe un numero primo p tal que 1+....(p veces)...+1 = 0
+p = caracteristica del cuerpo finito
